@@ -1,4 +1,4 @@
-### Hi there Folks 👋 Kaisan baa, I am [Sameer Anand](www.linkedin.com/in/sameeranand12) 
+### Hi there Folks 👋 Kaisan baa, I am [Sameer Anand](https://www.linkedin.com/in/sameeranand12/) 
 <br/>
 <hr>
 
