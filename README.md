@@ -47,8 +47,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
     
-    <a href="www.linkedin.com/in/sameeranand12
-/ " alt="Linkedin"><img width="35px" src="images/ld.png"></a>
+    <a href="www.linkedin.com/in/sameeranand12/ " alt="Linkedin"><img width="35px" src="images/ld.png"></a>
      
     
 </p>
