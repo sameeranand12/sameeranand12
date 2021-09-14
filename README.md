@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <hr>
 <br>
 <p align="center">
-    <a href="https://arunodaykumar.me" alt="Portfolio"> </a>
+    
     <a href="www.linkedin.com/in/sameeranand12
 / " alt="Linkedin"><img width="35px" src="images/ld.png"></a>
      
